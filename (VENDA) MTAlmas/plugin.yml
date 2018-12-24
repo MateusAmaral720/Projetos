@@ -1,0 +1,7 @@
+name: MT_Almas
+version: 1.0
+author: MateusAmaral720
+main: dev.mateusamaral720.mtalmas.Main
+commands:
+  almas:
+  compraritemalmas:
