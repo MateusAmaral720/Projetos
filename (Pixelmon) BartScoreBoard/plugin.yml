@@ -1,0 +1,6 @@
+name: BartScore
+author: MateusAmaral720
+version: 1.0
+main: dev.mateusamaral720.bartscore.Main
+commands:
+  score:

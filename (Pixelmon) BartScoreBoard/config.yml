@@ -1,0 +1,9 @@
+Mensagens:
+ PluginHabilitado:
+  - '§bPlugin ScoreBoard Iniciado'
+  - ''
+ PluginDesabilitado:
+  - ''
+  - ''
+ ComandoScoreHabilitada: "&aScoreboard habilitada."
+ ComandoScoreDesabilitada: "&cScoreboard desabilitada."
