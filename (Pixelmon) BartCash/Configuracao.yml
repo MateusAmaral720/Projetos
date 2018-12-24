@@ -1,0 +1,21 @@
+# <player> nome do player
+# & codigo para cor 
+Itens:
+  Espada:
+    Mensagem: '&bMensagem privada ao jogador que executa o comando'
+    #Quantidade De cash Necessario pra comprar
+    Custo: 10
+    Comandos:
+      - 'give <player> diamond_sword 1'
+      - 'say <player> Comprou uma espada de diamante!'
+      
+Prefix: "&eBartMC &8» &r"
+TopCash:
+  Formato: "   &f<posicao>° &7<nome> &8- &7<valor>"
+  Tamanho: 5
+      
+Mensagens:
+  SemPermissao: "&cVocê não possui permissão para isso!"
+  SeuCash: "&bSeu Cash: &e<cash>"
+  FormatoIncorreto: "&cFormato Incorreto, use apenas numeros!"
+  VerCash: "&aCash do Jogador <player>: <cash>"

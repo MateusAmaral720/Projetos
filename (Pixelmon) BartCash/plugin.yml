@@ -1,0 +1,9 @@
+name: BartCash
+version: 1.0
+author: MateusAmaral720
+main: dev.mateusamaral720.bartcash.Main
+commands:
+  cash:
+  ativarkey:
+  novakey:
+  compraritem:
